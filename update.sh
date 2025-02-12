@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-DEST="/home/lampac"
+DEST="/home/lampac12"
 cd $DEST
 
 ver=$(cat vers.txt)
