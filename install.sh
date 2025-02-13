@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-DEST="/home/lampac13"
+DEST="/home/lampac14"
 
 # Become root
 # sudo su -
